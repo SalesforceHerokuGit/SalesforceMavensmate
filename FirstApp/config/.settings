@@ -1,0 +1,17 @@
+{
+    "projectName": "FirstApp",
+    "username": "dxpilot+roberto.garciarodriguez@cognizant.com",
+    "id": "0f9e0d00-fce7-11e6-b7c1-05ee625dcfc5",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://eu11.salesforce.com",
+    "workspace": "C:\\Users\\611583\\Documents\\GitHub\\SalesforceMavensmate",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

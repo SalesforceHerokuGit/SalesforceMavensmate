@@ -1,0 +1,16 @@
+{
+    "Test1.cls": {
+        "createdById": "0050Y000000TGXlQAO",
+        "createdByName": "Rober Garcia",
+        "createdDate": "2017-02-27T12:20:35.000Z",
+        "fileName": "unpackaged/classes/Test1.cls",
+        "fullName": "Test1",
+        "id": "01p0Y00000AVMWXQA5",
+        "lastModifiedById": "0050Y000000TGXlQAO",
+        "lastModifiedByName": "Rober Garcia",
+        "lastModifiedDate": "2017-02-27T12:20:35.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    }
+}
