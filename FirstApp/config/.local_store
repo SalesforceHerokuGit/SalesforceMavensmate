@@ -14,15 +14,17 @@
         "mmState": "clean"
     },
     "Test2.cls": {
-        "createdById": "0050Y000000TGcRQAW",
-        "createdByName": "Roger Latorre",
-        "createdDate": "2017-02-27T14:26:47.000Z",
-        "fileName": "unpackaged/classes/Test2.cls",
-        "fullName": "Test2",
         "id": "01p0Y00000AVOY3QAP",
+        "name": "Test2",
+        "createdDate": "2017-02-27T14:26:47.000+0000",
+        "createdById": "0050Y000000TGcRQAW",
+        "namespacePrefix": null,
         "lastModifiedById": "0050Y000000TGcRQAW",
+        "lastModifiedDate": "2017-02-27T14:52:29.000+0000",
+        "fullName": "Test2",
+        "fileName": "unpackaged/classes/Test2.cls",
+        "createdByName": "Roger Latorre",
         "lastModifiedByName": "Roger Latorre",
-        "lastModifiedDate": "2017-02-27T14:26:47.000Z",
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
