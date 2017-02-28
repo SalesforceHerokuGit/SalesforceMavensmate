@@ -1,15 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-	<types>
-		<members>Test1</members>
-		<members>Test2</members>
-		<members>AccountDisplayInfo_CX</members>
-		<members>Test3</members>
-		<name>ApexClass</name>
-	</types>
-	<types>
-		<members>AccountDisplayInfo</members>
-		<name>ApexPage</name>
-	</types>
-	<version>36.0</version>
+    <version>38.0</version>
 </Package>
