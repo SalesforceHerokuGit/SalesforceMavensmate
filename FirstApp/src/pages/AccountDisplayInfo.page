@@ -7,8 +7,19 @@
 	<!-- TODO #4: In the pageBlockTable component add a value attribute that is
 	              dynamically bound to the results variable and a var attribute 
 				  that has the value "attempt"   -->
+        <apex:image alt="Master Rigoberto Guthemberg" url="{!$Resource.RobertImage}"/>
         <apex:pageBlockTable var="attempt" value="{!results}" >
-            <apex:column value="{!attempt.Name}" />
+           <!-- <apex:column value="{!attempt.Name}" /> -->
+
+            <apex:column  > 
+                <apex:outputLink value="{!URLFOR($Action.Account.View, attempt.id)}">
+                <apex:outputText value="{!attempt.Name}"/>
+                
+                </apex:outputLink>
+            <!--<apex:outputlabel onclick="window.location='/{!attempt.id}'" value="{!attempt.name}"/> -->
+            </apex:column>
+            
+            <!--<apex:outputLink value="/{!URLFOR(attempt.Name)}" ></apex:outputLink>-->
         </apex:pageBlockTable>
     </apex:pageBlock>
 </apex:page>
