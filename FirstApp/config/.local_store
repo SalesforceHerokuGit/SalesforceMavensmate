@@ -28,5 +28,37 @@
         "manageableState": "unmanaged",
         "type": "ApexClass",
         "mmState": "clean"
+    },
+    "AccountDisplayInfo_CX.cls": {
+        "id": "01p0Y00000AVXdpQAH",
+        "name": "AccountDisplayInfo_CX",
+        "createdDate": "2017-02-28T08:32:19.000+0000",
+        "createdById": "0050Y000000TGXlQAO",
+        "namespacePrefix": null,
+        "lastModifiedById": "0050Y000000TGXlQAO",
+        "lastModifiedDate": "2017-02-28T08:47:20.000+0000",
+        "fullName": "AccountDisplayInfo_CX",
+        "fileName": "unpackaged/classes/AccountDisplayInfo_CX.cls",
+        "createdByName": "Rober Garcia",
+        "lastModifiedByName": "Rober Garcia",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    },
+    "AccountDisplayInfo.page": {
+        "id": "0660Y000002zmj3QAA",
+        "name": "AccountDisplayInfo",
+        "createdDate": "2017-02-28T08:41:16.000+0000",
+        "createdById": "0050Y000000TGXlQAO",
+        "namespacePrefix": null,
+        "lastModifiedById": "0050Y000000TGXlQAO",
+        "lastModifiedDate": "2017-02-28T08:47:48.000+0000",
+        "fullName": "AccountDisplayInfo",
+        "fileName": "unpackaged/pages/AccountDisplayInfo.page",
+        "createdByName": "Rober Garcia",
+        "lastModifiedByName": "Rober Garcia",
+        "manageableState": "unmanaged",
+        "type": "ApexPage",
+        "mmState": "clean"
     }
 }

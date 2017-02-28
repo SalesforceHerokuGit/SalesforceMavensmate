@@ -3,7 +3,12 @@
 	<types>
 		<members>Test1</members>
 		<members>Test2</members>
+		<members>AccountDisplayInfo_CX</members>
 		<name>ApexClass</name>
+	</types>
+	<types>
+		<members>AccountDisplayInfo</members>
+		<name>ApexPage</name>
 	</types>
 	<version>36.0</version>
 </Package>
