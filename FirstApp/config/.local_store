@@ -60,5 +60,21 @@
         "manageableState": "unmanaged",
         "type": "ApexPage",
         "mmState": "clean"
+    },
+    "Test3.cls": {
+        "id": "01p0Y00000AVYNnQAP",
+        "name": "Test3",
+        "createdDate": "2017-02-28T09:56:22.000+0000",
+        "createdById": "0050Y000000TGXlQAO",
+        "namespacePrefix": null,
+        "lastModifiedById": "0050Y000000TGXlQAO",
+        "lastModifiedDate": "2017-02-28T09:58:29.000+0000",
+        "fullName": "Test3",
+        "fileName": "unpackaged/classes/Test3.cls",
+        "createdByName": "Rober Garcia",
+        "lastModifiedByName": "Rober Garcia",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
     }
 }
